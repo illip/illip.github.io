@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: |
-  | Philippe Michon
-  | Semantic Web Analyst - Analyste en web sémantique
+  Philippe Michon
+  Semantic Web Analyst - Analyste en web sémantique
 email: illipmich@gmail.com
 description: |
-  | Museum data geek who loves semantics patterns!
-  | Geek des données muséales qui aime les modèles sémantiques!
+  Museum data geek who loves semantics patterns!
+  Geek des données muséales qui aime les modèles sémantiques!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: PhilippeMichon
