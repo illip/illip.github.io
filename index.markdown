@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Où se trouvera ce texte?
