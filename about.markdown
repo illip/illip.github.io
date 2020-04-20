@@ -5,6 +5,8 @@ permalink: /about/
 ---
 [![profile_picture](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Philippe_Michon.jpg/234px-Philippe_Michon.jpg)](https://commons.wikimedia.org/wiki/File:Philippe_Michon.jpg)
 
+[TOC]
+
 # Short bio
 
  I'm Philippe Michon, the Semantic Web Analyst at the Canadian Heritage Information Network. I got my master degree in Digital History from the Université de Sherbrooke, Quebec, Canada in 2016.
@@ -24,3 +26,4 @@ permalink: /about/
 * LinkedIn: [philippemichon](https://www.linkedin.com/in/philippemichon/)
 * Twitter: [PhilippeMichon](https://twitter.com/PhilippeMichon)
 * Wikidata: [Illipmich](https://www.wikidata.org/wiki/User:Illipmich)
+* Zotero: [illip](https://www.zotero.org/illip)
