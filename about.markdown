@@ -11,6 +11,13 @@ permalink: /about/
 
 # Purpose of this site
 
+# Involved in
+
+* [CRM-SIG](http://www.cidoc-crm.org/node/1736)
+* [Linked.Art](https://linked.art/community/index.html)
+* [Laboratoire d'histoire et de patrimoine de Montréal](https://lhpm.uqam.ca/philippe-michon/)
+* [Savoirs communs du cinéma](https://www.cinematheque.qc.ca/fr/programmation/projections/cycle/initiative-savoirs-communs-du-cinema)
+
 # Where to read me?
 
 * Michon, Philippe. « Archivistique, histoire et Web sémantique : une approche interdisciplinaire basée sur l’événementiel ». Archives 47, nᵒ 1 (2017): 85‑105. [https://doi.org/10.7202/1041827ar](https://doi.org/10.7202/1041827ar). (in French)
